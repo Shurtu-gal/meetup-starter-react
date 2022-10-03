@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/meetup-starter-react/static/css/main.ce202e8c.css",
-    "main.js": "/github.io/meetup-starter-react/static/js/main.7e9c92e2.js",
-    "index.html": "/github.io/meetup-starter-react/index.html",
-    "main.ce202e8c.css.map": "/github.io/meetup-starter-react/static/css/main.ce202e8c.css.map",
-    "main.7e9c92e2.js.map": "/github.io/meetup-starter-react/static/js/main.7e9c92e2.js.map"
+    "main.css": "/meetup-starter-react/static/css/main.ce202e8c.css",
+    "main.js": "/meetup-starter-react/static/js/main.7e9c92e2.js",
+    "index.html": "/meetup-starter-react/index.html",
+    "main.ce202e8c.css.map": "/meetup-starter-react/static/css/main.ce202e8c.css.map",
+    "main.7e9c92e2.js.map": "/meetup-starter-react/static/js/main.7e9c92e2.js.map"
   },
   "entrypoints": [
     "static/css/main.ce202e8c.css",

@@ -1,0 +1,42 @@
+.modal{
+  text-align:center;
+  position : fixed;
+  width :30rem;
+  top: 20vh;
+  left: calc(50% - 15rem);
+  background-color: #fcfcfc;
+  z-index: 1;
+  padding:16px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px 0 rgba(0,0,0,0.6);
+}
+
+h2{
+  font-weight: 900;
+}
+
+.action {
+  text-align: right;
+}
+
+.btn,.alt{
+  background-color: #800040;
+  padding: 0.5rem 1.5rem;
+  color: white;
+  border-radius: 4px;
+  cursor: pointer;    /*New things*/
+  font: inherit;
+  margin: 0 1rem;
+  border: 2px solid #800040;
+}
+
+.btn:hover {
+  background-color: #9c1458;
+  border: 2px solid #9c1458;
+}
+
+.alt:hover{
+  background-color: #eecfcf;
+  color: #9c1458;
+}
+

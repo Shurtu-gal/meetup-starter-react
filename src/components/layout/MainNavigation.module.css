@@ -1,0 +1,40 @@
+.header h1{
+    padding: 5px 20px;  
+    margin: 0;
+    display: inline-block;
+}
+.header ul{
+    margin : 0;
+    padding : 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #dddddd;
+}
+
+.header li{
+    float: right;
+}
+
+.header li a{
+    font-size: 1.25rem;
+    text-decoration: none;
+    color : black;
+    padding: 1rem;
+    align-items: center;
+    display: block;
+}
+
+.header li a:hover{
+    background-color: #eeeeee;
+}
+
+.header li a.active,
+.header li a:active{
+    background-color : #aaaaaa;
+}
+
+.notif{
+    border-radius : 12px;
+    background-color: #999999;
+    padding : 2px 12px;
+}
